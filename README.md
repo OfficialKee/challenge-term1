@@ -2,11 +2,11 @@
 
 
 #### `arrayReverse`
-Given an array of numbers, reverse the order of the numbers of the arrays
+Given an array of numbers, reverse the order of the numbers in the array.
 
 
 #### `inBothArrays`
-Given 2 arrays of numbers, return an array of numbers that includes all numbers that appear in both arrays
+Given 2 arrays of numbers, return an array that includes all numbers that appear in both arrays.
 
 
 #### `characterCount`
@@ -14,7 +14,7 @@ Given a string and then a single character `c`, write a function that will retur
 
 
 #### `numberSwap`
-Given two number variables, `a` and `b`, swap the values of those two variables.  Try doing it with only 2 variables!
+Given two number variables, `a` and `b`, swap the values of those two variables.  Try using only 2 variables!
 
 
 #### `palindrome`

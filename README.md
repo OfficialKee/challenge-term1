@@ -33,5 +33,5 @@ targetSum([5,1,6,8,3,9],14) => [ [6,8],[5,9] ]
 Given an input number `n`, check if n is a prime number.  A prime number is only divisible by 1 and itself. If the number is prime, return true and if not return false.
 
 
-#### `secondLargest`
-Given an unsorted array of numbers, find the second largest number in that array.  
+<!-- #### `secondLargest`
+Given an unsorted array of numbers, find the second largest number in that array.   -->
